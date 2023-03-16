@@ -8,5 +8,6 @@
 - 48 años de Edad
 - Casado
 - Dos Hijas
+- Un Gato
 
 Soy Docente de la [UNPAZ](https://www.unpaz.edu.ar)
