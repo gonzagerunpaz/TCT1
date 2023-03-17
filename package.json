@@ -1,0 +1,24 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "## Foto ![ ](./img/mifoto.jpg \"Hermoso pibe\")",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzagerunpaz/TCT1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzagerunpaz/TCT1/issues"
+  },
+  "homepage": "https://github.com/gonzagerunpaz/TCT1#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
