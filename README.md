@@ -1,5 +1,10 @@
 # Gerardo Martin Gonzalez Tulian
 
+## Como correr el proyecto
+- Abrir una terminal en el directorio raiz del proyecto
+- corre el comando `npm install`
+- ejecutar con el comnando `npm start`
+
 ## Foto
 ![ ](./img/mifoto.jpg "Hermoso pibe")
 
